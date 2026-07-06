@@ -64,7 +64,7 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [📉 Customer Churn Prediction](https://github.com/RitvikShetty17/Customer-Churn-Prediction-Analysis) | ML model + Streamlit app to predict telecom churn with actionable retention insights | Python, Scikit-Learn, Streamlit |
+| [📉 Customer Churn Prediction](https://github.com/RitvikShetty17/Customer-Churn-Prediction-Analysis) | ML model + Streamlit app to predict telecom churn with actionable retention insights | Python, Scikit-Learn, Streamlit · [🚀 Live App](https://customer-churn-prediction-analysis-i2.streamlit.app) |
 | [🛒 Superstore Sales Analysis](https://github.com/RitvikShetty17/Store-Sales-Analysis) | End-to-end BI case study with SQL queries and an interactive Power BI dashboard | SQL, Power BI |
 | [🦠 COVID-19 Data Analysis](https://github.com/RitvikShetty17/Covid-19-Data-Analysis) | Global EDA with KPI metrics (recovery rate, death rate, weekly trends) and Excel dashboard | Excel, EDA |
 | [⚽ EPL Data Analysis](https://github.com/RitvikShetty17/EPL-Data-Analysis) | Interactive Tableau dashboard analyzing team & player performance across the 2023–24 EPL season | Tableau |
