@@ -64,6 +64,8 @@
 
 | Project | Description | Stack |
 |---|---|---|
+| [🔍 AI Data Quality Monitor](https://github.com/RitvikShetty17/ai-data-quality-monitor) | Automated pipeline that profiles datasets, runs 20+ validation rules, and explains anomalies in plain English | Python, Great Expectations, Streamlit, Claude API |
+| [⚽ ValueScout](https://github.com/RitvikShetty17/football-scouting-analysis) | Player similarity engine that finds cheaper statistical alternatives to any Ligue 1 player using xG/xA data + Transfermarkt values | Python, PostgreSQL, Streamlit |
 | [📉 Customer Churn Prediction](https://github.com/RitvikShetty17/Customer-Churn-Prediction-Analysis) | ML model + Streamlit app to predict telecom churn with actionable retention insights | Python, Scikit-Learn, Streamlit · [🚀 Live App](https://customer-churn-prediction-analysis-i2.streamlit.app) |
 | [🛒 Superstore Sales Analysis](https://github.com/RitvikShetty17/Store-Sales-Analysis) | End-to-end BI case study with SQL queries and an interactive Power BI dashboard | SQL, Power BI |
 | [🦠 COVID-19 Data Analysis](https://github.com/RitvikShetty17/Covid-19-Data-Analysis) | Global EDA with KPI metrics (recovery rate, death rate, weekly trends) and Excel dashboard | Excel, EDA |
