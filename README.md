@@ -6,9 +6,6 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ritvikshetty23/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-ritvikshetty23-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
   <a href="mailto:rtshetty17@gmail.com">
     <img src="https://img.shields.io/badge/Email-rtshetty17@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
